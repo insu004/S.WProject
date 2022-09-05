@@ -1,2 +1,2 @@
-# S-W-Project
+# SW Project
 S/W Project
